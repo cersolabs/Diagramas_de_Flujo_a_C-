@@ -1,4 +1,4 @@
-# Ejercicios para Convertir de Diagramas de Flujo a C#
+# Ejercicios para Convertir Diagramas de Flujo a C#
 
 ## Ejercicio N° 1 
 ```mermaid
